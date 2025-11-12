@@ -15,9 +15,3 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=bitnal-h&bg_color=180,ffd1f9,00000000&title_color=666666&text_color=666666"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitnal-h&layout=compact&bg_color=180,ffd1f9,00000000&title_color=666666&text_color=666666"
-           /> </div> 
-    </div>
-    
